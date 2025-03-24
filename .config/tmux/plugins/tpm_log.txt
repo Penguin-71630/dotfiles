@@ -1,0 +1,190 @@
+[2025-03-20 17:34:14.433]	List of discovered tpm plugins: tmux-plugins/tmux-battery tmux-plugins/tmux-resurrect
+[2025-03-20 17:34:14.465]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-20 17:34:14.586]	Installing "tmux-battery"
+[2025-03-20 17:34:14.615]	Installing "tmux-resurrect"
+[2025-03-20 17:34:15.939]	  "tmux-battery" download success
+[2025-03-20 17:34:17.120]	  "tmux-resurrect" download success
+[2025-03-20 17:34:17.153]	Done.
+
+[2025-03-20 17:35:16.645]	List of discovered tpm plugins: tmux-plugins/tmux-battery tmux-plugins/tmux-resurrect
+[2025-03-20 17:35:16.676]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-20 17:35:16.790]	Already installed "tmux-battery"
+[2025-03-20 17:35:16.822]	Already installed "tmux-resurrect"
+[2025-03-20 17:35:16.858]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-20 17:35:16.927]	Updating all plugins!
+[2025-03-20 17:35:16.960]	
+[2025-03-20 17:35:17.762]	  "tmux-resurrect" update success
+[2025-03-20 17:35:17.792]	    | Already up to date.
+[2025-03-20 17:35:17.842]	  "tmux-battery" update success
+[2025-03-20 17:35:17.874]	    | Already up to date.
+[2025-03-20 17:35:17.907]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-20 17:35:18.022]	Done.
+
+[2025-03-20 17:35:40.406]	List of discovered tpm plugins: tmux-plugins/tmux-battery tmux-plugins/tmux-resurrect
+[2025-03-20 17:35:40.437]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-20 17:35:40.547]	Already installed "tmux-battery"
+[2025-03-20 17:35:40.568]	Already installed "tmux-resurrect"
+[2025-03-20 17:35:40.599]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-20 17:35:40.675]	Updating all plugins!
+[2025-03-20 17:35:40.703]	
+[2025-03-20 17:35:41.475]	  "tmux-battery" update success
+[2025-03-20 17:35:41.506]	    | Already up to date.
+[2025-03-20 17:35:41.553]	  "tmux-resurrect" update success
+[2025-03-20 17:35:41.573]	    | Already up to date.
+[2025-03-20 17:35:41.604]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-20 17:35:41.711]	Done.
+
+[2025-03-20 17:36:09.485]	List of discovered tpm plugins: tmux-plugins/tmux-battery tmux-plugins/tmux-resurrect
+[2025-03-20 17:36:09.516]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-20 17:36:09.629]	Already installed "tmux-battery"
+[2025-03-20 17:36:09.653]	Already installed "tmux-resurrect"
+[2025-03-20 17:36:09.681]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-20 17:36:09.752]	Updating all plugins!
+[2025-03-20 17:36:09.786]	
+[2025-03-20 17:36:10.588]	  "tmux-resurrect" update success
+[2025-03-20 17:36:10.622]	    | Already up to date.
+[2025-03-20 17:36:10.747]	  "tmux-battery" update success
+[2025-03-20 17:36:10.777]	    | Already up to date.
+[2025-03-20 17:36:10.812]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-20 17:36:10.926]	Done.
+
+[2025-03-20 17:38:09.591]	List of discovered tpm plugins: tmux-plugins/tmux-battery tmux-plugins/tmux-resurrect
+[2025-03-20 17:38:09.623]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-20 17:38:09.735]	Already installed "tmux-battery"
+[2025-03-20 17:38:09.768]	Already installed "tmux-resurrect"
+[2025-03-20 17:38:09.796]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-20 17:38:09.866]	Updating all plugins!
+[2025-03-20 17:38:09.896]	
+[2025-03-20 17:38:10.722]	  "tmux-battery" update success
+[2025-03-20 17:38:10.752]	    | Already up to date.
+[2025-03-20 17:38:10.781]	  "tmux-resurrect" update success
+[2025-03-20 17:38:10.810]	    | Already up to date.
+[2025-03-20 17:38:10.841]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-20 17:38:10.951]	Done.
+
+[2025-03-20 23:59:36.679]	List of discovered tpm plugins: tmux-plugins/tmux-battery tmux-plugins/tmux-resurrect
+[2025-03-20 23:59:36.691]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-20 23:59:36.741]	Already installed "tmux-resurrect"
+[2025-03-20 23:59:36.751]	Already installed "tmux-battery"
+[2025-03-20 23:59:36.763]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-20 23:59:36.792]	Updating all plugins!
+[2025-03-20 23:59:36.802]	
+[2025-03-20 23:59:37.595]	  "tmux-resurrect" update success
+[2025-03-20 23:59:37.605]	    | Already up to date.
+[2025-03-20 23:59:37.907]	  "tmux-battery" update success
+[2025-03-20 23:59:37.917]	    | Already up to date.
+[2025-03-20 23:59:37.928]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-20 23:59:37.979]	Done.
+
+[2025-03-21 22:49:29.847]	List of discovered tpm plugins: tmux-plugins/tmux-battery tmux-plugins/tmux-resurrect
+[2025-03-21 22:49:29.858]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-21 22:49:29.906]	Already installed "tmux-battery"
+[2025-03-21 22:49:29.915]	Already installed "tmux-resurrect"
+[2025-03-21 22:49:29.927]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-21 22:49:29.954]	Updating all plugins!
+[2025-03-21 22:49:29.964]	
+[2025-03-21 22:49:30.763]	  "tmux-battery" update success
+[2025-03-21 22:49:30.773]	    | Already up to date.
+[2025-03-21 22:49:30.784]	  "tmux-resurrect" update success
+[2025-03-21 22:49:30.794]	    | Already up to date.
+[2025-03-21 22:49:30.805]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-21 22:49:30.852]	Done.
+
+[2025-03-23 01:52:17.357]	List of discovered tpm plugins: tmux-plugins/tmux-battery tmux-plugins/tmux-resurrect
+[2025-03-23 01:52:17.368]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-23 01:52:17.417]	Already installed "tmux-resurrect"
+[2025-03-23 01:52:17.427]	Already installed "tmux-battery"
+[2025-03-23 01:52:17.438]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-23 01:52:17.466]	Updating all plugins!
+[2025-03-23 01:52:17.475]	
+[2025-03-23 01:52:18.227]	  "tmux-resurrect" update success
+[2025-03-23 01:52:18.237]	    | Already up to date.
+[2025-03-23 01:52:18.476]	  "tmux-battery" update success
+[2025-03-23 01:52:18.485]	    | Already up to date.
+[2025-03-23 01:52:18.497]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-23 01:52:18.543]	Done.
+
+[2025-03-23 14:04:07.466]	List of discovered tpm plugins: tmux-plugins/tmux-battery tmux-plugins/tmux-resurrect
+[2025-03-23 14:04:07.479]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-23 14:04:07.530]	Already installed "tmux-battery"
+[2025-03-23 14:04:07.541]	Already installed "tmux-resurrect"
+[2025-03-23 14:04:07.552]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-23 14:04:07.581]	Updating all plugins!
+[2025-03-23 14:04:07.592]	
+[2025-03-23 14:04:08.433]	  "tmux-battery" update success
+[2025-03-23 14:04:08.445]	    | Already up to date.
+[2025-03-23 14:04:08.463]	  "tmux-resurrect" update success
+[2025-03-23 14:04:08.478]	    | Already up to date.
+[2025-03-23 14:04:08.492]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-23 14:04:08.536]	Done.
+
+[2025-03-23 14:47:27.743]	List of discovered tpm plugins: tmux-plugins/tmux-battery tmux-plugins/tmux-resurrect
+[2025-03-23 14:47:27.755]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-23 14:47:27.807]	Already installed "tmux-resurrect"
+[2025-03-23 14:47:27.817]	Already installed "tmux-battery"
+[2025-03-23 14:47:27.827]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-23 14:47:27.855]	Updating all plugins!
+[2025-03-23 14:47:27.867]	
+[2025-03-23 14:47:28.695]	  "tmux-battery" update success
+[2025-03-23 14:47:28.705]	    | Already up to date.
+[2025-03-23 14:47:28.740]	  "tmux-resurrect" update success
+[2025-03-23 14:47:28.750]	    | Already up to date.
+[2025-03-23 14:47:28.763]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-23 14:47:28.813]	Done.
+
+[2025-03-24 15:17:36.064]	List of discovered tpm plugins: tmux-plugins/tmux-battery tmux-plugins/tmux-resurrect
+[2025-03-24 15:17:36.076]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-24 15:17:36.125]	Already installed "tmux-battery"
+[2025-03-24 15:17:36.136]	Already installed "tmux-resurrect"
+[2025-03-24 15:17:36.147]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-24 15:17:36.176]	Updating all plugins!
+[2025-03-24 15:17:36.186]	
+[2025-03-24 15:17:36.999]	  "tmux-resurrect" update success
+[2025-03-24 15:17:37.011]	    | Already up to date.
+[2025-03-24 15:17:37.021]	  "tmux-battery" update success
+[2025-03-24 15:17:37.034]	    | Already up to date.
+[2025-03-24 15:17:37.045]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-24 15:17:37.096]	Done.
+
+[2025-03-24 18:46:44.016]	List of discovered tpm plugins: tmux-plugins/tmux-battery tmux-plugins/tmux-resurrect
+[2025-03-24 18:46:44.026]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-24 18:46:44.074]	Already installed "tmux-battery"
+[2025-03-24 18:46:44.084]	Already installed "tmux-resurrect"
+[2025-03-24 18:46:44.094]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-24 18:46:44.121]	Updating all plugins!
+[2025-03-24 18:46:44.132]	
+[2025-03-24 18:46:44.907]	  "tmux-resurrect" update success
+[2025-03-24 18:46:44.917]	    | Already up to date.
+[2025-03-24 18:46:45.501]	  "tmux-battery" update success
+[2025-03-24 18:46:45.531]	    | Already up to date.
+[2025-03-24 18:46:45.551]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-24 18:46:45.648]	Done.
+
+[2025-03-24 20:50:25.759]	List of discovered tpm plugins: tmux-plugins/tmux-battery tmux-plugins/tmux-resurrect
+[2025-03-24 20:50:25.769]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-24 20:50:25.812]	Already installed "tmux-resurrect"
+[2025-03-24 20:50:25.823]	Already installed "tmux-battery"
+[2025-03-24 20:50:25.833]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-24 20:50:25.858]	Updating all plugins!
+[2025-03-24 20:50:25.868]	
+[2025-03-24 20:50:26.620]	  "tmux-battery" update success
+[2025-03-24 20:50:26.630]	    | Already up to date.
+[2025-03-24 20:50:26.641]	  "tmux-resurrect" update success
+[2025-03-24 20:50:26.653]	    | Already up to date.
+[2025-03-24 20:50:26.664]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-24 20:50:26.705]	Done.
+
+[2025-03-24 21:07:16.340]	List of discovered tpm plugins: tmux-plugins/tmux-battery tmux-plugins/tmux-resurrect
+[2025-03-24 21:07:16.352]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-03-24 21:07:16.405]	Already installed "tmux-battery"
+[2025-03-24 21:07:16.417]	Already installed "tmux-resurrect"
+[2025-03-24 21:07:16.428]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-03-24 21:07:16.458]	Updating all plugins!
+[2025-03-24 21:07:16.469]	
+[2025-03-24 21:07:17.371]	  "tmux-battery" update success
+[2025-03-24 21:07:17.403]	    | Already up to date.
+[2025-03-24 21:07:17.434]	  "tmux-resurrect" update success
+[2025-03-24 21:07:17.463]	    | Already up to date.
+[2025-03-24 21:07:17.495]	Invoking /home/gino/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-03-24 21:07:17.611]	Done.
+

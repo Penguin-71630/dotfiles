@@ -1,0 +1,25 @@
+[general]
+# "~/.config/alacritty/themes/themes/tokyo_night.toml"
+import = [
+    "~/.cache/wal/colors-alacritty.toml"
+]
+
+[font]
+size = 18.0
+offset.y = 2
+
+[font.normal]
+family = "CodeNewRomanNerdFont"
+style = "Regular"
+
+[font.bold]
+family = "CodeNewRomanNerdFont"
+style = "Bold"
+
+[font.italic]
+family = "CodeNewRomanNerdFont"
+style = "Italic"
+
+[env]
+TERM = "xterm-256color"
+

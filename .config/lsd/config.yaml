@@ -1,0 +1,13 @@
+classic: false
+blocks:
+  - permission
+  #- user
+  #- group
+  - size
+  - date
+  - name
+
+color:
+  theme: custom
+
+date: '+| %m/%d %a | %H:%M |'

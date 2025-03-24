@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/gino/code/competitive_programming/CF-gym-586077-Mashup-1200-1600/L/testcases'
+let g:netrw_dirhist_9='/home/gino/code/competitive_programming/CF-Mashup-800-1200'
+let g:netrw_dirhist_8='/home/gino/code/competitive_programming'
+let g:netrw_dirhist_7='/home/gino/.vim/plugged/wal.vim'
+let g:netrw_dirhist_6='/home/gino/.vim/colors'
+let g:netrw_dirhist_5='/home/gino/.vim/plugged/vim-sensible'
+let g:netrw_dirhist_4='/home/gino/.vim/plugged'
+let g:netrw_dirhist_3='/home/gino/.config/waybar'
+let g:netrw_dirhist_2='/home/gino/code'
+let g:netrw_dirhist_1='/home/gino'

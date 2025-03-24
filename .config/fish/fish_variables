@@ -1,0 +1,135 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR --export ADW_DISABLE_PORTAL:1
+SETUVAR --export BG_BLACK:\x5cx1b\x5b40m
+SETUVAR --export BG_BLUE:\x5cx1b\x5b44m
+SETUVAR --export BG_CYAN:\x5cx1b\x5b46m
+SETUVAR --export BG_GRAY:\x5cx1b\x5b240m
+SETUVAR --export BG_GREEN:\x5cx1b\x5b42m
+SETUVAR --export BG_PURPLE:\x5cx1b\x5b45m
+SETUVAR --export BG_RED:\x5cx1b\x5b41m
+SETUVAR --export BG_WHITE:\x5cx1b\x5b47m
+SETUVAR --export BG_YELLOW:\x5cx1b\x5b43m
+SETUVAR --export BLACK:\x5cx1b\x5b30m
+SETUVAR --export BLUE:\x5cx1b\x5b34m
+SETUVAR --export COLOREND:\x5cx1b\x5b0m
+SETUVAR --export CURRENT_UID:1000\x3a1000
+SETUVAR --export CYAN:\x5cx1b\x5b36m
+SETUVAR --export DISPLAY:\x3a1
+SETUVAR --export ENDCOLOR:\x5cx1b\x5b0m
+SETUVAR --export GRAY:\x5cx1b\x5b90m
+SETUVAR --export GREEN:\x5cx1b\x5b32m
+SETUVAR --export --path INFOPATH:/usr/local/texlive/2023/texmf\x2ddist/doc/info
+SETUVAR --export --path LD_LIBRARY_PATH:/home/penguin71630/\x2emujoco/mujoco210/bin/\x20/usr/lib/nvidia
+SETUVAR --export PURPLE:\x5cx1b\x5b35m
+SETUVAR --export RED:\x5cx1b\x5b31m
+SETUVAR VIRTUAL_ENV_DISABLE_PROMPT:true
+SETUVAR --export WAYLAND_DISPLAY:wayland\x2d0
+SETUVAR --export WHITE:\x5cx1b\x5b37m
+SETUVAR --export WP:/home/gino/\x2econfig/hypr/wallpapers
+SETUVAR --export XDG_CONFIG_HOME:/home/gino/\x2econfig
+SETUVAR --export YELLOW:\x5cx1b\x5b33m
+SETUVAR __fish_initialized:3800
+SETUVAR _fisher_jorgebucaran_2F_fisher_files:\x7e/\x2econfig/fish/functions/fisher\x2efish\x1e\x7e/\x2econfig/fish/completions/fisher\x2efish
+SETUVAR _fisher_plugins:jorgebucaran/fisher
+SETUVAR _fisher_upgraded_to_4_4:\x1d
+SETUVAR --export cf:/home/gino/scripts/competitive_programming/cf\x2efish
+SETUVAR --export cfgoto:\x2e\x20\x7e/scripts/competitive_programming/cf\x2efish\x20goto
+SETUVAR --export davinciResolveProject:/mnt/c/users/gino/AppData/Roaming/Blackmagic\x20Design/DaVinci\x20Resolve/Support/Resolve\x20Project\x20Library/Resolve\x20Projects/Users/guest/Projects
+SETUVAR --export dirImageEnhancer:/mnt/c/Users/Gino/OneDrive/\u684c\u9762/ImageQualityEnhancer
+SETUVAR fish_color_autosuggestion:58586c
+SETUVAR fish_color_cancel:4F444B\x1e\x2d\x2dreverse
+SETUVAR fish_color_command:005fd7
+SETUVAR fish_color_comment:990000
+SETUVAR fish_color_cwd:A35C5C
+SETUVAR fish_color_cwd_root:4F444B
+SETUVAR fish_color_end:AD6056
+SETUVAR fish_color_error:ff0000
+SETUVAR fish_color_escape:633A90
+SETUVAR fish_color_history_current:\x2d\x2dbold
+SETUVAR fish_color_host:D3965C
+SETUVAR fish_color_host_remote:D3965C
+SETUVAR fish_color_normal:normal
+SETUVAR fish_color_operator:A35B93
+SETUVAR fish_color_param:00afff
+SETUVAR fish_color_quote:999900
+SETUVAR fish_color_redirection:633A90
+SETUVAR fish_color_search_match:bryellow\x1e\x2d\x2dbackground\x3dbrblack
+SETUVAR fish_color_selection:\x2d\x2dbackground\x3d58586c
+SETUVAR fish_color_status:4F444B
+SETUVAR fish_color_user:A35C5C
+SETUVAR fish_color_valid_path:\x2d\x2dunderline
+SETUVAR fish_key_bindings:fish_default_key_bindings
+SETUVAR fish_pager_color_completion:c1c1c4
+SETUVAR fish_pager_color_description:58586c
+SETUVAR fish_pager_color_prefix:A35C5C
+SETUVAR fish_pager_color_progress:58586c
+SETUVAR fish_pager_color_selected_background:\x2d\x2dbackground\x3d58586c
+SETUVAR fish_user_paths:/home/gino/scripts/\x1e/home/gino/scripts/competitive_programming
+SETUVAR --export mobileDownloadDir:\x7e/storage/downloads/send
+SETUVAR --export mobileHome:\x7e/storage/shared/
+SETUVAR pure_begin_prompt_with_current_directory:true
+SETUVAR pure_check_for_new_release:false
+SETUVAR pure_color_at_sign:pure_color_mute
+SETUVAR pure_color_command_duration:pure_color_warning
+SETUVAR pure_color_current_directory:pure_color_primary
+SETUVAR pure_color_danger:red
+SETUVAR pure_color_dark:black
+SETUVAR pure_color_git_branch:pure_color_mute
+SETUVAR pure_color_git_dirty:pure_color_mute
+SETUVAR pure_color_git_stash:pure_color_info
+SETUVAR pure_color_git_unpulled_commits:pure_color_info
+SETUVAR pure_color_git_unpushed_commits:pure_color_info
+SETUVAR pure_color_hostname:pure_color_mute
+SETUVAR pure_color_info:cyan
+SETUVAR pure_color_jobs:pure_color_normal
+SETUVAR pure_color_k8s_context:pure_color_success
+SETUVAR pure_color_k8s_namespace:pure_color_primary
+SETUVAR pure_color_k8s_prefix:pure_color_info
+SETUVAR pure_color_light:white
+SETUVAR pure_color_mute:brblack
+SETUVAR pure_color_nixdevshell_prefix:pure_color_info
+SETUVAR pure_color_nixdevshell_symbol:pure_color_mute
+SETUVAR pure_color_normal:normal
+SETUVAR pure_color_prefix_root_prompt:pure_color_danger
+SETUVAR pure_color_primary:blue
+SETUVAR pure_color_prompt_on_error:pure_color_danger
+SETUVAR pure_color_prompt_on_success:pure_color_success
+SETUVAR pure_color_success:magenta
+SETUVAR pure_color_system_time:pure_color_mute
+SETUVAR pure_color_username_normal:pure_color_mute
+SETUVAR pure_color_username_root:pure_color_light
+SETUVAR pure_color_virtualenv:pure_color_mute
+SETUVAR pure_color_warning:yellow
+SETUVAR pure_enable_container_detection:true
+SETUVAR pure_enable_git:true
+SETUVAR pure_enable_k8s:false
+SETUVAR pure_enable_nixdevshell:false
+SETUVAR pure_enable_single_line_prompt:false
+SETUVAR pure_enable_virtualenv:true
+SETUVAR pure_reverse_prompt_symbol_in_vimode:true
+SETUVAR pure_separate_prompt_on_error:false
+SETUVAR pure_shorten_prompt_current_directory_length:0
+SETUVAR pure_shorten_window_title_current_directory_length:0
+SETUVAR pure_show_jobs:false
+SETUVAR pure_show_prefix_root_prompt:false
+SETUVAR pure_show_subsecond_command_duration:false
+SETUVAR pure_show_system_time:false
+SETUVAR pure_symbol_container_prefix:
+SETUVAR pure_symbol_git_dirty:\x2a
+SETUVAR pure_symbol_git_stash:\u2261
+SETUVAR pure_symbol_git_unpulled_commits:\u21e3
+SETUVAR pure_symbol_git_unpushed_commits:\u21e1
+SETUVAR pure_symbol_k8s_prefix:\u2638
+SETUVAR pure_symbol_nixdevshell_prefix:\u2744\ufe0f
+SETUVAR pure_symbol_prefix_root_prompt:\x23
+SETUVAR pure_symbol_prompt:\u276f
+SETUVAR pure_symbol_reverse_prompt:\u276e
+SETUVAR pure_symbol_ssh_prefix:
+SETUVAR pure_symbol_title_bar_separator:\x2d
+SETUVAR pure_symbol_virtualenv_prefix:
+SETUVAR pure_threshold_command_duration:5
+SETUVAR pure_truncate_prompt_current_directory_keeps:\x2d1
+SETUVAR pure_truncate_window_title_current_directory_keeps:\x2d1
+SETUVAR --export rhythmGamePlayrecord:/mnt/c/Users/Gino/Arcaea/\u624b\u5143
+SETUVAR tide_jobs_number_threshold:1000
