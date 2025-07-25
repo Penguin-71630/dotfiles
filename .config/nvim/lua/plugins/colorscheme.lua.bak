@@ -1,0 +1,197 @@
+return {
+	{
+		"folke/tokyonight.nvim",
+		opts = {
+			transparent = true,
+			styles = {
+				sidebars = "transparent",
+				floats = "transparent",
+			},
+			on_colors = function(colors)
+				---
+			end,
+			on_highlights = function(highlights, c)
+				local monokai_yellow = "#e5b567"
+				local monokai_green = "#b4d273"
+				local monokai_orange = "#e87d3e"
+				local monokai_purple = "#9e86c8"
+				local monokai_pink = "#b05279"
+				local monokai_blue = "#6c99bb"
+				local my_magenta = "#bf2162"
+				local my_blue = "#3ab2f2"
+				local my_green = "#80e632"
+				local my_light_green = "#73d45d"
+				--[[
+				highlights["@number"] = {
+					fg = c.magenta,
+				}
+				highlights["@boolean"] = {
+					fg = c.magenta,
+				}
+				highlights["@keyword"] = {
+					fg = my_magenta,
+					style = { italic = true, bold = true },
+				}
+				highlights["@operator"] = {
+					fg = c.yellow,
+				}
+				highlights["@type.builtin"] = {
+					fg = my_magenta,
+					style = { italic = true, bold = true },
+				}
+				highlights["@function"] = {
+					fg = my_light_green,
+				}
+				highlights["@keyword.repeat"] = {
+					fg = my_blue,
+					style = { bold = true },
+				}
+				highlights["@keyword.conditional"] = {
+					fg = my_blue,
+					style = { bold = true },
+				}
+				highlights.Constant = {
+					fg = c.white,
+				}
+        --]]
+			end,
+		},
+	},
+	--[[ {
+    "craftzdog/solarized-osaka.nvim",
+    lazy = false,
+    priority = 1000,
+    opts = {
+      -- your configuration comes here
+      -- or leave it empty to use the default settings
+      transparent = true, -- Enable this to disable setting the background color
+      terminal_colors = true, -- Configure the colors used when opening a `:terminal` in [Neovim](https://github.com/neovim/neovim)
+      styles = {
+        -- Style to be applied to different syntax groups
+        -- Value is any valid attr-list value for `:help nvim_set_hl`
+        comments = { italic = true },
+        keywords = { italic = true },
+        functions = {},
+        variables = {},
+        -- Background styles. Can be "dark", "transparent" or "normal"
+        sidebars = "transparent", -- style for sidebars, see below
+        floats = "transparent", -- style for floating windows
+      },
+      sidebars = { "qf", "help" }, -- Set a darker background on sidebar-like windows. For example: `["qf", "vista_kind", "terminal", "packer"]`
+      day_brightness = 0.3, -- Adjusts the brightness of the colors of the **Day** style. Number between 0 and 1, from dull to vibrant colors
+      hide_inactive_statusline = false, -- Enabling this option, will hide inactive statuslines and replace them with a thin border instead. Should work with the standard **StatusLine** and **LuaLine**.
+      dim_inactive = false, -- dims inactive windows
+      lualine_bold = false,
+    },
+  }, --]]
+	--[[ {
+    "loctvl842/monokai-pro.nvim",
+    transparent_background = true,
+    terminal_colors = true,
+    devicons = true, -- highlight the icons of `nvim-web-devicons`
+    styles = {
+      comment = { italic = true },
+      keyword = { italic = true }, -- any other keyword
+      type = { italic = true }, -- (preferred) int, long, char, etc
+      storageclass = { italic = true }, -- static, register, volatile, etc
+      structure = { italic = true }, -- struct, union, enum, etc
+      parameter = { italic = true }, -- parameter pass in function
+      annotation = { italic = true },
+      tag_attribute = { italic = true }, -- attribute of tag in reactjs
+
+      sidebars = "transparent",
+      floats = "transparent",
+    },
+    filter = "classic", -- classic | octagon | pro | machine | ristretto | spectrum
+    -- Enable this will disable filter option
+    day_night = {
+      enable = false, -- turn off by default
+      day_filter = "pro", -- classic | octagon | pro | machine | ristretto | spectrum
+      night_filter = "spectrum", -- classic | octagon | pro | machine | ristretto | spectrum
+    },
+    inc_search = "background", -- underline | background
+    background_clear = {
+      -- "float_win",
+      "toggleterm",
+      "telescope",
+      -- "which-key",
+      "renamer",
+      "notify",
+      -- "nvim-tree",
+      -- "neo-tree",
+      -- "bufferline", -- better used if background of `neo-tree` or `nvim-tree` is cleared
+    }, -- "float_win", "toggleterm", "telescope", "which-key", "renamer", "neo-tree", "nvim-tree", "bufferline"
+    plugins = {
+      bufferline = {
+        underline_selected = false,
+        underline_visible = false,
+      },
+      indent_blankline = {
+        context_highlight = "default", -- default | pro
+        context_start_underline = false,
+      },
+    },
+  }, ]]
+	--
+	--[[ {
+    "tanvirtin/monokai.nvim",
+    palette = {
+      name = "monokai",
+      base1 = "#272a30",
+      base2 = "#26292C",
+      base3 = "#2E323C",
+      base4 = "#333842",
+      base5 = "#4d5154",
+      base6 = "#9ca0a4",
+      base7 = "#b1b1b1",
+      border = "#a1b5b1",
+      brown = "#504945",
+      white = "#f8f8f0",
+      grey = "#8F908A",
+      black = "#000000",
+      pink = "#f92672",
+      green = "#a6e22e",
+      aqua = "#66d9ef",
+      yellow = "#e6db74",
+      orange = "#fd971f",
+      purple = "#ae81ff",
+      red = "#e95678",
+      diff_add = "#3d5213",
+      diff_remove = "#4a0f23",
+      diff_change = "#27406b",
+      diff_text = "#23324d",
+    },
+    opts = {
+      transparent = true,
+      styles = {
+        sidebars = "transparent",
+        floats = "transparent",
+      },
+    },
+  },
+]]
+	--
+	--[[{
+    "glepnir/zephyr-nvim",
+    opt = true,
+  },
+]]
+	--
+	--[[{
+    "sainnhe/sonokai",
+  },
+    ]]
+	--
+	{
+		"LazyVim/LazyVim",
+		opts = {
+			colorscheme = "tokyonight",
+		},
+	},
+	{
+		"rcarriga/nvim-notify",
+		opts = {
+			background_colour = "#00000",
+		},
+	},
+}
